@@ -1,0 +1,146 @@
+[
+ {
+  "name": "room-wide-bed",
+  "cat": "rooms",
+  "w": 1170,
+  "h": 776
+ },
+ {
+  "name": "bed-close",
+  "cat": "rooms",
+  "w": 1170,
+  "h": 775
+ },
+ {
+  "name": "room-art-sofa",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "suite-bed",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-wide-window",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 900
+ },
+ {
+  "name": "room-tv-sofa",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-wardrobe-desk",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-desk-curtain",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-bed-wide",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "bed-cushions",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-corner",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-sofa-door",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "room-bed-tv",
+  "cat": "rooms",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "bath-shower",
+  "cat": "baths",
+  "w": 1200,
+  "h": 1600
+ },
+ {
+  "name": "bath-wood",
+  "cat": "baths",
+  "w": 1600,
+  "h": 2133
+ },
+ {
+  "name": "bath-basin",
+  "cat": "baths",
+  "w": 1200,
+  "h": 1600
+ },
+ {
+  "name": "bath-wc",
+  "cat": "baths",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "bath-geyser",
+  "cat": "baths",
+  "w": 1200,
+  "h": 1600
+ },
+ {
+  "name": "facade-dusk",
+  "cat": "property",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "lounge",
+  "cat": "property",
+  "w": 1464,
+  "h": 1600
+ },
+ {
+  "name": "reception",
+  "cat": "property",
+  "w": 1600,
+  "h": 900
+ },
+ {
+  "name": "facade-night",
+  "cat": "property",
+  "w": 1200,
+  "h": 1600
+ },
+ {
+  "name": "parking",
+  "cat": "property",
+  "w": 1600,
+  "h": 1200
+ },
+ {
+  "name": "facade-day",
+  "cat": "property",
+  "w": 1600,
+  "h": 1560
+ }
+]

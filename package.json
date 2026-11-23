@@ -1,0 +1,20 @@
+{
+  "name": "pr-grand-tuni",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PR Grand, Tuni - hotel website with an interactive 3D room walkthrough",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}

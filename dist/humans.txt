@@ -1,0 +1,6 @@
+/* TEAM */
+Designed & Developed by Kaushik AI Labs — https://www.kaushikailabs.com
+
+/* SITE */
+Client: PR Grand, Tuni, Andhra Pradesh
+Standards: HTML5, CSS3, ES modules, WebGL (three.js)
