@@ -53,7 +53,7 @@ h1, h2, h3, h4, p { margin: 0; }
 .intro { position: fixed; inset: 0; z-index: 300; background: var(--ink); display: grid; place-items: center; transition: opacity 0.7s var(--ease) 0.2s, visibility 0s 0.95s; }
 .intro.done { opacity: 0; visibility: hidden; pointer-events: none; }
 .intro-mark { display: grid; justify-items: center; }
-.intro-mark img { width: min(220px, 56vw); height: auto; }
+.intro-mark img { width: min(240px, 62vw); height: auto; }
 .intro-mark .draw { stroke-dasharray: 260; stroke-dashoffset: 260; animation: draw 1s var(--ease) forwards; }
 @keyframes draw { to { stroke-dashoffset: 0; } }
 
@@ -65,7 +65,7 @@ h1, h2, h3, h4, p { margin: 0; }
 .brand-mark { color: var(--brass); display: grid; width: 48px; height: 48px; flex: 0 0 48px; }
 .brand-mark img { width: 100%; height: 100%; }
 .brand-text { display: grid; line-height: 1.1; }
-.brand-text b { font-family: var(--display); font-size: 1.55rem; font-weight: 600; letter-spacing: 0.02em; }
+.brand-text b { font-family: var(--display); font-size: 1.25rem; font-weight: 600; letter-spacing: 0.12em; white-space: nowrap; }
 .brand-text small { font-size: 0.66rem; letter-spacing: 0.22em; text-transform: uppercase; color: rgba(246, 240, 230, 0.6); }
 .nav { display: flex; gap: clamp(16px, 2.4vw, 34px); }
 .nav a { text-decoration: none; font-size: 0.86rem; font-weight: 600; letter-spacing: 0.04em; color: rgba(246, 240, 230, 0.78); position: relative; padding: 6px 0; transition: color 0.2s; }
@@ -476,11 +476,11 @@ address { font-style: normal; font-size: 1.1rem; line-height: 1.7; color: rgba(1
   .ui-top { gap: 8px; }
 }
 @media (max-width: 380px) {
-  .header-in { gap: 10px; }
+  .header-in { gap: 4px; }
+  .brand { gap: 8px; }
   .brand-mark { width: 40px; height: 40px; flex-basis: 40px; }
-  .brand-text b { font-size: 1.3rem; }
-  .brand-text small { display: none; }
-  .header-cta { gap: 8px; }
+  .brand-text b { font-size: 0.86rem; letter-spacing: 0.1em; }
+  .header-cta { gap: 6px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
