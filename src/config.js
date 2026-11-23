@@ -5,7 +5,7 @@
  */
 export const CONFIG = {
   whatsapp: '',
-  phone: '',
+  phone: '+91 91156 78777',
   mmtUrl: 'https://www.makemytrip.com/hotels/prgrand-details-tuni.html',
   mapsDirections: 'https://www.google.com/maps/dir/?api=1&destination=PR+Grand+Tuni+Andhra+Pradesh',
   address: 'Door No. 3-1-54, Surya Plaza, Tuni Town Road, Opposite Keerthana TVS, Kankipati Vari Street, Tuni, Kakinada District, Andhra Pradesh 533401',

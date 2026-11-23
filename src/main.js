@@ -521,6 +521,7 @@ if (CONFIG.phone) {
   const c = $('#callBtn');
   c.hidden = false;
   c.href = `tel:${CONFIG.phone.replace(/\s/g, '')}`;
+  c.textContent = `Call ${CONFIG.phone}`;
 }
 $('#copyAddr').addEventListener('click', async (e) => {
   try {
